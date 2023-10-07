@@ -32,9 +32,12 @@ body > .main-container > .content-container {
   text-align: center;
 }
 
-body > .main-container > .content-container > h1 {
+body > .main-container > .content-container > h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
 }
 
 body > .main-container > .content-container > img {
   max-width: 300px;
+  cursor: pointer;
 }
