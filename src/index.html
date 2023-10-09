@@ -9,7 +9,7 @@
 
     <link rel="stylesheet" href="./style.css" />
     <link
-      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&family=Dancing+Script&family=Montserrat:wght@400;600&display=swap"
       rel="stylesheet"
     />
 
@@ -18,9 +18,24 @@
   <body>
     <main class="main-container">
       <div class="content-container">
-        <h2>Qual é a sua sorte de hoje?</h2>
-        <span>Abra o biscoito e descubra!</span>
-        <img src="/assets/images/fortune-cookie.svg" alt="Biscoito da Sorte" />
+        <h2 id="title">Qual é a sua sorte de hoje?</h2>
+        <span id="subtitle">Abra o biscoito e descubra!</span>
+        <div id="message-container" hidden>$content</div>
+        <img
+          id="closed-cookie"
+          onclick="openCookie()"
+          src="/assets/images/fortune-cookie.svg"
+          alt="Biscoito da Sorte Fechado"
+        />
+        <img
+          id="opened-cookie"
+          hidden
+          src="/assets/images/opened-cookie.svg"
+          alt="Biscoito da Sorte Aberto"
+        />
+        <button id="btn-open-again" hidden onclick="openAgain()">
+          Abrir outro biscoito
+        </button>
       </div>
     </main>
     <!-- Importação JS -->

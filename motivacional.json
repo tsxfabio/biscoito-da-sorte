@@ -1,0 +1,200 @@
+{
+  "motivacoes": [
+    {
+      "id": 1,
+      "descricao": "O caminho é longo, mas a derrota é certa."
+    },
+    {
+      "id": 2,
+      "descricao": "É só uma fase ruim, logo vai piorar."
+    },
+    {
+      "id": 3,
+      "descricao": "Pare de desejar e comece a desistir."
+    },
+    {
+      "id": 4,
+      "descricao": "Os sonhos antecedem os seus fracassos."
+    },
+    {
+      "id": 5,
+      "descricao": "Dividir para fracassar."
+    },
+    {
+      "id": 7,
+      "descricao": "A vida te derruba hoje te preparando para a queda de amanhã."
+    },
+    {
+      "id": 8,
+      "descricao": "Nada como um dia pior que o outro."
+    },
+    {
+      "id": 9,
+      "descricao": "Nunca foi azar, sempre foi incompetência."
+    },
+    {
+      "id": 10,
+      "descricao": "No começo é difícil, mas no final é pior."
+    },
+    {
+      "id": 11,
+      "descricao": "Você é mais fraco do que pensa."
+    },
+    {
+      "id": 12,
+      "descricao": "Coisas ruins se vão para que piores possam vir."
+    },
+    {
+      "id": 13,
+      "descricao": "Não pare, faça até dar errado."
+    },
+    {
+      "id": 14,
+      "descricao": "Seja o protagonista do seu fracasso."
+    },
+    {
+      "id": 15,
+      "descricao": "Nunca é tarde para desistir."
+    },
+    {
+      "id": 16,
+      "descricao": "Você é incrível, incrivelmente ruim."
+    },
+    {
+      "id": 17,
+      "descricao": "O universo não está nem aí para você!"
+    },
+    {
+      "id": 18,
+      "descricao": "Só dará errado se você tentar."
+    },
+    {
+      "id": 19,
+      "descricao": "Quando sua mente pensar em desistir, desista."
+    },
+    {
+      "id": 20,
+      "descricao": "Acredite! Você nasceu para conquistar grandes fracassos."
+    },
+    {
+      "id": 21,
+      "descricao": "Seu maior problema é você."
+    },
+    {
+      "id": 22,
+      "descricao": "Um dia você perde, no outro você perde mais um pouco."
+    },
+    {
+      "id": 23,
+      "descricao": "O recomeço é a oportunidade de um novo fracasso."
+    },
+    {
+      "id": 24,
+      "descricao": "Para ficar ruim, você terá que melhorar muito."
+    },
+    {
+      "id": 25,
+      "descricao": "Você não pode mudar o seu passado, mas pode estragar o seu futuro."
+    },
+    {
+      "id": 26,
+      "descricao": "Acreditar que você pode já é meio caminho de dar errado."
+    },
+    {
+      "id": 27,
+      "descricao": "O problema não é a segunda-feira, é a sua vida!"
+    },
+    {
+      "id": 28,
+      "descricao": "Nunca subestime sua incapacidade."
+    },
+    {
+      "id": 29,
+      "descricao": "Durma 12 horas por dia, assim as chances de fracassar caem pela metade."
+    },
+    {
+      "id": 30,
+      "descricao": "Reclame menos, fracasse mais."
+    },
+    {
+      "id": 31,
+      "descricao": "Tudo dando errado conforme o esperado."
+    },
+    {
+      "id": 32,
+      "descricao": "Nada é em vão. Tudo vem para te decepcionar."
+    },
+    {
+      "id": 33,
+      "descricao": "Nunca deixe ninguém dizer que você não consegue. Diga você mesmo."
+    },
+    {
+      "id": 34,
+      "descricao": "Procastinar é necessário. Deixe para fracassar amanhã."
+    },
+    {
+      "id": 35,
+      "descricao": "Quanto mais você procastinar, menores são as chances de fracassar."
+    },
+    {
+      "id": 36,
+      "descricao": "A vida é um conto de falhas."
+    },
+    {
+      "id": 37,
+      "descricao": "O não você já tem. Busque a humilhação."
+    },
+    {
+      "id": 38,
+      "descricao": "Quando tudo estiver dando errado, se acostume."
+    },
+    {
+      "id": 39,
+      "descricao": "Lute como nunca, fracasse como sempre."
+    },
+    {
+      "id": 40,
+      "descricao": "Sem lutas não há derrotas."
+    },
+    {
+      "id": 41,
+      "descricao": "Comemore as pequenas derrotas."
+    },
+    {
+      "id": 42,
+      "descricao": "Você ainda não chegou lá, mas olhe o quanto você já se fudeu."
+    },
+    {
+      "id": 43,
+      "descricao": "Tudo pode dar errado se você tentar. Mas se não fizer nada, tudo ficará igual."
+    },
+    {
+      "id": 44,
+      "descricao": "Nenhum obstaculo é grande o bastante para quem desiste."
+    },
+    {
+      "id": 45,
+      "descricao": "Não sabendo que era impossível, foi lá e soube."
+    },
+    {
+      "id": 46,
+      "descricao": "Não pense que tudo está acabado só porque uma coisa ruim aconteceu. Você ainda tem muito para se fuder."
+    },
+    {
+      "id": 47,
+      "descricao": "Não deixe que uma frase motivacional melhor seu dia de merda."
+    },
+    {
+      "id": 48,
+      "descricao": "Com grandes poderes vem grandes responsabilidades. E você não tem nenhum dos dois."
+    },
+    {
+      "id": 49,
+      "descricao": "Com grandes poderes vem grandes derrotas."
+    },
+    {
+      "id": 50,
+      "descricao": "Não há mal que derrube aquele que nasceu para ficar no chão."
+    }
+  ]
+}
